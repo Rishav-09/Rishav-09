@@ -23,10 +23,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rishavsinghnegi](https://www.linkedin.com/in/rishav-singh-negi-333ab52b7?))
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rishavsinghnegi](https://github.com/Rishav-09))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/rishavsinghnegi](https://www.instagram.com/rxshavcore?igsh=MXY3ZzJvNmhidmw0eQ==))
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/rishavsinghnegi](https://leetcode.com/u/RISHAV_09/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-singh-negi-333ab52b7)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishav-09)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rxshavcore)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RISHAV_09/)
 
 </div>
 
@@ -103,14 +103,14 @@ Looking For : Internship / Collaboration opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavsinghnegi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavsinghnegi&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rishav-09&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-09&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavsinghnegi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav-09&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
 
 </div>
 
@@ -122,8 +122,8 @@ Looking For : Internship / Collaboration opportunities
 
 | Platform | Focus | Profile |
 |----------|-------|---------|
-| 🟡 **LeetCode** | DSA Problem Solving & Optimization | [![LeetCode](https://img.shields.io/badge/Visit-%23FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/rishavsinghnegi) |
-| 🟢 **GitHub** | Projects & Open Source Contributions | [![GitHub](https://img.shields.io/badge/Visit-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rishavsinghnegi) |
+| 🟡 **LeetCode** | DSA Problem Solving & Optimization | [![LeetCode](https://img.shields.io/badge/Visit-%23FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/RISHAV_09/) |
+| 🟢 **GitHub** | Projects & Open Source Contributions | [![GitHub](https://img.shields.io/badge/Visit-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishav-09) |
 
 > 💡 *Consistently practicing problem solving, focusing on time & space complexity optimization, and building an intuition for algorithmic thinking.*
 
@@ -164,7 +164,7 @@ Looking For : Internship / Collaboration opportunities
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
+> *"First, solve the problem. Then, write the code."*  
 > — **John Johnson**
 
 </div>
@@ -175,7 +175,7 @@ Looking For : Internship / Collaboration opportunities
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavsinghnegi&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishav-09&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -185,6 +185,6 @@ Looking For : Internship / Collaboration opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-⭐️ *From [Rishav Singh Negi](https://github.com/rishavsinghnegi) — If you like my work, consider giving a star!*
+⭐️ *From [Rishav Singh Negi](https://github.com/Rishav-09) — If you like my work, consider giving a star!*
 
 </div>
