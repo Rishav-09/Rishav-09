@@ -131,35 +131,6 @@ Looking For : Internship / Collaboration opportunities
 
 ---
 
-## 🚀 Projects
-
-### 🚦 Smart Traffic Management System
-> An intelligent system designed to optimize traffic flow using data-driven signals and real-time logic.
-
-- 📌 Simulates traffic conditions and dynamically manages signal timing
-- 🧠 Implements queue-based data structures for vehicle scheduling
-- 🔧 Built with **C++ / Python** focusing on efficiency and scalability
-
----
-
-### 🗜️ File Compressor (C++)
-> A command-line tool for lossless file compression using Huffman Encoding.
-
-- 📌 Implements **Huffman Encoding** algorithm for file compression
-- 💾 Reduces file size while maintaining data integrity
-- 🔧 Built entirely in **C++** with a focus on DSA fundamentals
-
----
-
-### 🌐 Portfolio Website
-> A personal portfolio to showcase projects, skills, and achievements.
-
-- 📌 Clean, responsive design built for recruiters and collaborators
-- 🎨 Built with **HTML, CSS, JavaScript**
-- 🔧 Deployed online with smooth UI/UX and project highlights
-
----
-
 ## 💬 Motivational Quote
 
 <div align="center">
